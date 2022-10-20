@@ -1,7 +1,7 @@
 =================================================
-Knapsack Problem Solution using Genetic ALgorithm
+Knapsack Problem Solution using Genetic Algorithm
 =================================================
 
-Reference taken from: `link`_
+Reference taken from: `link here`_
 
-.. _link: https://arpitbhayani.me/blogs/genetic-knapsack
+.. _link here: https://arpitbhayani.me/blogs/genetic-knapsack
